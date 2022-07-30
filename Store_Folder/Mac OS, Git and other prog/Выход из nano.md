@@ -27,3 +27,6 @@ ctrl+Z - просто выйти
 
 test for understanding .......
 
+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
+
+new token for git
